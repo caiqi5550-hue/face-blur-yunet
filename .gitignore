@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+input_images/*
+!input_images/.gitkeep
+output_images/
+*.html
+*_files/
